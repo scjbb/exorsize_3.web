@@ -1,0 +1,110 @@
+body {
+    font-family: 'Nova Square', sans-serif;
+
+    color: aliceblue;
+    background-color: rgb(43, 26, 58);
+    text-align: center;
+    display: grid;
+    grid-template-rows: auto;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+}
+
+h1 {
+
+    color: aliceblue;
+    background-color: rgba(195, 255, 255, 0.511);
+    text-align: center;
+    display: grid;
+    grid-template-rows: auto;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+img {
+
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    border: none;
+    box-sizing: border-box;
+    max-height: 1000px;
+    max-width: 1000px;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+button {
+    font-family: 'Nova Square', sans-serif;
+    background-color: rgb(187, 165, 209);
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.idol {
+    width: 100%;
+    height: 100%;
+    background: url(image/Ace_1.PNG) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.laugh {
+    width: 100%;
+    height: 100%;
+    background: url(image/Ace_2.PNG) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.blush {
+    width: 100%;
+    height: 100%;
+    background: url(image/Ace_3.PNG) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.end {
+    width: 100%;
+    height: 100%;
+    background: url(image/Ace_4.PNG) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.wave {
+    width: 100%;
+    height: 100%;
+    background: url(image/Ace_5.PNG) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.textbar {
+    width: 10%;
+    height: 100%;
+    background: url(../img/textbar.png) no-repeat center center fixed;
+    background-size: cover;
+    position: absolute;
+    overflow: hidden;
+}
